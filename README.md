@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - CrowdFunder
 
-Submitted by: **Your Name Here**
+Submitted by: Jordan Hirsch
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+CrowdFunder is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 14 hours spent in total (real time working on it)
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,19 +23,19 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="CrowdFunder.gif" title="CrowdFunder Walkthrough" width="250" alt="Video Walkthrough"
+' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://getkap.co/ for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+ -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+- As I am still learning and exploring GitHub, I found myself confused when to commit and how to commit properly from VSCode.
+- I had trouble after running the code and everything came out properly in challenges 3-5 but they covers to the games were not displaying in the website.
+-Submission in Github and converting the gif to the proper file is also troublesome. It is all finished but I am not taking extensive time to make sure it is submitted correctly
 ## License
 
     Copyright [yyyy] [name of copyright owner]
